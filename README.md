@@ -2,7 +2,9 @@
 
 This document describes a set of stored procedures for managing and querying data in a Worker table. The table has the following structure:
 
+
 Table: Worker
+------------------------------------------------------------------
 Field	Type	             Description
 ------------------------------------------------------------------
 Worker_Id	INT	           Unique identifier for the worker
